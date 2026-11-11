@@ -1,6 +1,6 @@
 ## Information
 
-*Notes : The author is not responsible for any consequences resulting from this script, as it was created solely for testing purposes in a lab or on a local network. Beyond the scope of applicable international law.
+** Notes : The author is not responsible for any consequences resulting from this script, as it was created solely for testing purposes in a lab or on a local network. Beyond the scope of applicable international law.
 
 <p align="left">
 <img src="udp-traffic-gen2.png">
