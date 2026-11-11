@@ -4,7 +4,7 @@ The author is not responsible for any consequences resulting from this script, a
 
 
 <p align="left">
-<img src="udp-traffic-gen.png">
+<img src="udp-traffic-genn.png">
 </p>
 
 #### Quick Start
