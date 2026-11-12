@@ -9,14 +9,14 @@
 
 #### Quick Start
 ```
-chmod +x multiple_ipscan.py
+chmod +x udp-traffic-generator.py
 
-python3 udp-traffic-gen-v2.py -t 192.168.1.10 -p 5000 -r 50 -d 20
+python3 udp-traffic-generator.py -t 192.168.1.10 -p 5000 -r 50 -d 20
 ```
 
 #### Usage
 ```
-usage: udp-traffic-gen-v2.py [-h] -t TARGET [-p PORT] [-s SIZE] [-d DURATION] [-r RATE] [--pps PPS] [--flood] [--ttl TTL] [--tos TOS] [--stat-interval STAT_INTERVAL] [--bar-width BAR_WIDTH] [--csv-file CSV_FILE] [--no-banner]
+usage: udp-traffic-generator.py [-h] -t TARGET [-p PORT] [-s SIZE] [-d DURATION] [-r RATE] [--pps PPS] [--flood] [--ttl TTL] [--tos TOS] [--stat-interval STAT_INTERVAL] [--bar-width BAR_WIDTH] [--csv-file CSV_FILE] [--no-banner]
 
 UDP one-way traffic generator with per-second graph
 
